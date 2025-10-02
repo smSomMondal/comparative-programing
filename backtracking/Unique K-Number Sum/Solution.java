@@ -35,6 +35,7 @@ class Solution {
 
     public static void main(String [] args){
         System.out.println("Input: n = 8, k = 3 Output: "+combinationSum(8,3));
+        System.out.println("Input: n = 15, k = 5 Output: "+combinationSum(15,5));
         
         System.out.println("Input: n = 16, k = 3 Output: "+combinationSum(16,3));
     }
