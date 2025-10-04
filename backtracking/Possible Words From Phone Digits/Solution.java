@@ -69,6 +69,9 @@ class Solution {
     public static void main(String [] args){
         int [] a = {7,8,5};
         System.out.println("Input: 7,8,5 Output: "+possibleWords(a));
+        int [] b = {1,2,0,3};
+        System.out.println("Input: 7,8,5 Output: "+possibleWords(b));
+        
     }
 }
 
