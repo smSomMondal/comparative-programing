@@ -74,7 +74,7 @@ class Solution {
         int [] c = {7,8,0};
         System.out.println("Input: 7,8,0 Output: "+possibleWords(c));
         int [] d = {2,0};
-        System.out.println("Input: 7,8,5 Output: "+possibleWords(d));
+        System.out.println("Input: 2,0 Output: "+possibleWords(d));
         int [] e = {1,0};
         System.out.println("Input: 7,8,5 Output: "+possibleWords(e));
     }
