@@ -70,9 +70,9 @@ class Solution {
         int [] a = {7,8,5};
         System.out.println("Input: 7,8,5 Output: "+possibleWords(a));
         int [] b = {1,2,0,3};
-        System.out.println("Input: 7,8,5 Output: "+possibleWords(b));
+        System.out.println("Input: 1,2,0,3 Output: "+possibleWords(b));
         int [] c = {7,8,0};
-        System.out.println("Input: 7,8,5 Output: "+possibleWords(c));
+        System.out.println("Input: 7,8,0 Output: "+possibleWords(c));
         int [] d = {2,0};
         System.out.println("Input: 7,8,5 Output: "+possibleWords(d));
         int [] e = {1,0};
