@@ -36,6 +36,7 @@ class Solution {
     public static void main(String [] args){
         int [] a = {7,8,5};
         System.out.println("Input: s = `125`, target = 7 Output: "+findExpr("125",7));
+        System.out.println("Input: s = `124`, target = 9 Output: "+findExpr("124",3));
     }
 }
 
