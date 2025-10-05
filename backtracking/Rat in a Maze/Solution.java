@@ -42,8 +42,8 @@ class Solution {
 
 
     public static void main(String [] args){
-        int [] a = {7,8,5};
-        System.out.println(ratInMaze());
+        int [][] a = {{1, 0, 0, 0}, {1, 1, 0, 1}, {1, 1, 0, 0}, {0, 1, 1, 1}};
+        System.out.println(ratInMaze(a));
         
     }
 }
